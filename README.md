@@ -1,6 +1,1 @@
-👋 Hi, 
-🌱 I’m currently learning Python
-💞️ I’m looking to collaborate on mini projects on Python.
-📫 How to reach me - Vidhya.n13@outlook.com
-
-
+This repo consists of programs that are created during the learning of the basics of python.
